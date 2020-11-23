@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/cross.png</file>
+        <file>Images/nought.png</file>
+        <file>View/Button.qml</file>
+        <file>View/CrossLine.qml</file>
+        <file>View/CurrentPlayerPane.qml</file>
+        <file>View/main.qml</file>
+        <file>View/ScorePane.qml</file>
+        <file>View/Tile.qml</file>
+    </qresource>
+</RCC>
